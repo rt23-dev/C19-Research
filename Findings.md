@@ -8,7 +8,7 @@ This file is organized by theme rather than by source. Each finding includes a c
 
 ## 1. The term "translation factory" and the problem of satire vs. reality
 
-- Claim: The canonical term `Uebersetzungsfabriken` is strongly associated with Wilhelm Hauff's 1827 satire `Die Buecher und die Lesewelt`, but the underlying practice was not merely fictional.
+- Claim: The canonical term `Uebersetzungsfabriken` is strongly associated with Wilhelm Hauff's 1827 satire `Die Buecher und die Lesewelt`, but the underlying practice was not merely fictional.\\
   Confidence: High
   Sources: Hauff via Bachleitner summary in Univ. Vienna script; Alpha CRC article; Bachleitner 1989 as cited by later scholarship; Bachleitner 2013 notes; Gutzkow 1839 references.
   Notes: Hauff's satirical scene is exaggerated, but later scholarship treats it as a stylized representation of real translation workflows rather than pure invention.
