@@ -96,6 +96,42 @@ Taken together, these examples suggest a useful distinction:
 
 The strongest phrase for presenting this in a paper is that translation factories did not merely translate quickly. They generated recognizable textual signatures of industrialized production.
 
+## Evidence table
+
+| Original / source text | Factory-style rendering | Comparator / more careful rendering | Significance |
+| --- | --- | --- | --- |
+| Scott, *The Bride of Lammermoor*: `the ingenious manager of Punch and his wife Joan` | Gerhard version: `gleich dem genialen Punschwirth und seinem Weibe Johanna` | Better rendering reported in the comparison tradition: `der sinnreiche Leiter von Pulcinell ... und seinem Weibe Johanna` | The `Punschwirth` solution shows failure to recognize the puppet-theater reference. A more careful rendering recognizes the figure as a theatrical character-manager rather than turning the phrase into nonsense. |
+| Same Scott passage, rival German version | Schumann / Henriette von Montenglaut: `gleich dem erfinderischen Punschwirth mit seinem Weibe Johanna` | Same comparator as above | Two rival versions reproduce nearly the same strange error. This is the strongest available sign of contamination, haste, or shared dependence on an already circulating bad solution. |
+| Scott, *A Legend of Montrose*, Annot Lyle song | No single clearly documented factory rendering identified in this case | Lindau: `Waerst Du bei mir im Lebensthal ...`; Sophie May: `Waerst du wie ich im niedern Thal geboren ...` | This comparison is useful as a control case. It shows that contemporaneous translations can differ substantially without displaying the obvious shared blunder pattern seen in the `Punschwirth` example. |
+
+## Direct wording now in hand
+
+### 1. Scott / `Punschwirth`
+
+The key English phrase in Scott is:
+
+`the ingenious manager of Punch and his wife Joan`
+
+The two rival German renderings, as reported in the 1826 comparison tradition summarized by Bachleitner, are effectively:
+
+- Gerhard: `gleich dem genialen Punschwirth und seinem Weibe Johanna`
+- Schumann / Montenglaut: `gleich dem erfinderischen Punschwirth mit seinem Weibe Johanna`
+
+The importance of the case lies in the repetition of the same bizarre solution across rival versions. Even if the exact chain of borrowing is still unresolved, the passage is strong evidence for the kind of textual contamination that rapid factory-style production encouraged.
+
+### 2. Scott / Annot Lyle song
+
+The English lyric begins:
+
+`Were I but free, I'd follow thee`
+
+The two German versions currently in hand are:
+
+- Lindau: `Waerst Du bei mir im Lebensthal ...`
+- Sophie May: `Waerst du wie ich im niedern Thal geboren ...`
+
+This second case is less useful as a pure factory/non-factory binary, but it does help clarify the difference between normal literary variation and the kind of glaring, repeated mistranslation seen in the `Punschwirth` example.
+
 ## Best concise formulation for writing
 
 One clear sign of factory translation is not simply bad style, but the recurrence of the same strange solution across rival editions. In the Scott boom, competing German versions of *The Bride of Lammermoor* reproduced the absurd rendering of `Punch and his wife Joan` as a `Punschwirth`, suggesting contamination, haste, and mechanical reuse. By contrast, more careful translators such as Lindau show that contemporaneous German Scott translation could vary freely while still maintaining semantic control and literary coherence.
