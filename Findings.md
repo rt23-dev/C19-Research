@@ -1,6 +1,6 @@
 # Translation Factories: Research Findings
 
-Last updated: 2026-04-22
+Last updated: 2026-05-04
 
 ## Scope and method
 
@@ -542,21 +542,29 @@ This file is organized by theme rather than by source. Each finding includes a c
 
 ### M. What is now secure about the Gutzkow text
 
-- Claim: The bibliographic existence, date, and location of Gutzkow's `Die Deutschen Uebersetzungsfabriken` are now multiply corroborated across independent scholarly citations.
+- Claim: The full Gutzkow essay is now effectively in hand through page-image scans of both installments in `Telegraph fuer Deutschland`.
   Confidence: High
-  Sources: Gutzkow digital edition index; Brill `Five Economies of Weltliteratur` bibliography; Oxford German Studies footnote snippet; Schweitzer/De Gruyter contents preview for Bachleitner's 1990 sourcebook.
+  Sources: local scans from `Telegraph fuer Deutschland`, January 1839, no. 7 and no. 8; Bachleitner 1990 reprint citation; Gutzkow digital edition index.
   Key details:
-  The essay is consistently cited as appearing in `Telegraph fuer Deutschland`, issue 7/8, 1839, pp. 49-52 and 57-59.
-  Multiple later scholars cite an older Exeter Gutzkow editions-project URL for the full text: `projects.exeter.ac.uk/gutzkow/Gutzneu/gesamtausgabe/Abtei1/DDtUebe.htm`.
-  Bachleitner's 1990 source anthology reprints the essay on pp. 12-16.
+  The first installment appears in no. 7, page 49 through the end of page 52.
+  The continuation appears in no. 8, pages 57-59.
+  This confirms the standard citation and moves the text from bibliographic rumor into direct usable evidence.
 
 - Claim: Even without direct recovery of the full text, we can now more securely identify what later scholars extract from it.
   Confidence: Medium
-  Sources: Oxford German Studies footnote snippet; recent scholarship bibliographies; Gutzkow digital-edition context pages.
+  Sources: Oxford German Studies footnote snippet; recent scholarship bibliographies; Gutzkow digital-edition context pages; Hites 2021.
   Key details:
   Later scholarship treats Gutzkow as coining or using the language of `Uebersetzungsmaschinen` for translators.
   The essay is regularly grouped with Gutzkow's broader critique of `literarische Industrie`.
   It is used by scholars as evidence that translation excess was seen not only as a textual problem but as a threat to national literary production and the domestic book market.
+
+- Claim: The emerging picture of Gutzkow's argument is strongly protectionist in cultural-economic terms, not just aesthetic.
+  Confidence: Medium
+  Sources: Hites 2021; Gutzkow digital-edition context pages; Bachleitner 1989; Brill/Hites 2022 bibliography trail.
+  Key details:
+  Hites summarizes Gutzkow as warning that flooding the market with cheap foreign imports devalues domestic production.
+  In this reading, translation excess made Germany look like a nation chasing foreign authors because it lacked confidence in its own literary resources.
+  The argument therefore links translation factories to anxieties about national literary economy, not merely to poor style or rushed workmanship.
 
 - Claim: The old Exeter Gutzkow editions-project is currently the most important missing digital witness for full-text recovery.
   Confidence: High
@@ -565,3 +573,100 @@ This file is organized by theme rather than by source. Each finding includes a c
   The URL is cited too consistently to be doubtful.
   In this pass, however, I was not able to fetch the page content itself through the current browser tools.
   The next best route is likely a library-access copy of Bachleitner's 1990 sourcebook or a digitized `Telegraph fuer Deutschland` run.
+
+- Claim: Gutzkow's essay squarely blames booksellers, not translators, as the root cause of the translation-factory system.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 7, p. 49.
+  Key details:
+  He says the real source of the evil is not poor literary hacks translating day and night out of need.
+  Instead, he identifies booksellers driven by speculative greed who waste capital, reading demand, and the interests of literature on unnecessary translations from French and English.
+
+- Claim: Gutzkow argues that translation factories degrade domestic literature economically and symbolically.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 7, pp. 49-50; Hites 2021.
+  Key details:
+  He says booksellers overfill the market with foreign wares and thereby depress the value of native articles.
+  He also claims they make Germany ridiculous abroad by spreading the impression that the nation has exhausted its own poetic power and must defer to foreign writers ignored even in their own homelands.
+
+- Claim: Gutzkow explicitly frames the issue as one of national literary economy rather than only stylistic corruption.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 7, pp. 49-50; Hites 2021.
+  Notes:
+  He opposes the flood of translations to the cultivation of the `poetisches Vermoegen` of the nation.
+  He predicts that unchecked translation dependence would reduce Germany to a condition he associates with the Netherlands: satisfying reading demand through imported literature while domestic literature withers.
+
+- Claim: Gutzkow calls for an organized campaign against specific firms and criticizes the press for enabling them.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 7, p. 51.
+  Key details:
+  He urges critics to stop recommending these firms' productions.
+  He says German journals share responsibility because review copies and commercial dependency discourage frank criticism.
+  He proposes naming offending houses individually if they do not reform.
+
+- Claim: Gutzkow names specific firms as translation factories, which strengthens the documentary basis for several publisher attributions.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 7, p. 51 and no. 8, pp. 57-59.
+  Key details:
+  He begins with J. J. Weber in Leipzig.
+  He also names Ph. Reclam in Leipzig, Vieweg in Braunschweig, G. Westermann in Braunschweig, Meyer senior in Braunschweig, Mayer in Aachen, the Metzler'sche Buchhandlung in Stuttgart, and Kollmann in Leipzig.
+  This is one of the strongest contemporary lists yet recovered for the topic.
+
+- Claim: Gutzkow's treatment of particular firms confirms that his category of `Uebersetzungsfabrik` was broader than the Scott-centered Schumann/Franckh story alone.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 8, pp. 57-59; Bachleitner 1989.
+  Notes:
+  The essay targets a field of firms associated especially with foreign popular fiction, including Marryat, Chamier, Bulwer, Trollope, Boz, and French social and society literature.
+  This supports Bachleitner's broader publisher geography.
+
+- Claim: Gutzkow explicitly uses machine language for translators at Metzler.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 8, p. 59.
+  Key details:
+  He refers to Metzler's `Uebersetzungs-Maschinen` Gustav Pfizer and Notter.
+  This is one of the clearest contemporary formulations linking translation labor to machinery.
+
+- Claim: Gutzkow partly exempts Kollmann, which complicates any simple use of his list as a flat blacklist.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 8, p. 59.
+  Key details:
+  He says Kollmann may be innocent in part, because the business has been made into a translation factory by others.
+  He says Kollmann otherwise has as much taste for original works as Fanny Tarnow, Kruse, and Andre force a preference for foreign literature upon him.
+  He reproaches Tarnow and Kruse for occupying the German reading world with highly mediocre French novels.
+
+- Claim: Gutzkow quantifies the scale of the translation trade by claiming that shutting down the named firms would create an annual deficit of more than 150 entertainment books.
+  Confidence: High
+  Sources: direct page-image reading of `Telegraph fuer Deutschland`, no. 8, p. 59.
+  Significance: This is an important contemporary estimate of scale and gives a sharper sense of how deeply industrialized the translated-fiction market had become by 1839.
+
+## Addendum: direct takeaways from the user-provided Gutzkow files
+
+- Claim: The user-provided scans make it possible to attribute several core arguments to Gutzkow directly rather than through later summaries.
+  Confidence: High
+  Sources: local files `gutzkow_teil1.pdf` and `gutzkow_teil2.pdf`, extracted page images `g1_page1.png` through `g2_page3.png`.
+  Key details:
+  Gutzkow says the root of the evil lies not in impoverished translators but in `Buchhaendler`, driven by `Speculationswuth`.
+  He says they `ueberfuellen` the market with foreign wares and thereby `herabdruecken` the value of native literary products.
+  He warns that Germany is being made ridiculous abroad by appearing to rely on foreign writers even when those writers receive little regard at home.
+
+- Claim: The scanned essay shows that Gutzkow's category of translation factory was linked especially to imported popular fiction and serial commercial opportunism.
+  Confidence: High
+  Sources: local files `gutzkow_teil1.pdf` and `gutzkow_teil2.pdf`.
+  Key details:
+  He mocks the rush to proclaim `saemmtliche Werke` for fashionable foreign authors.
+  He singles out authors such as Mrs. Trollope, Marryat, Chamier, Bulwer, Boz, and French social fiction as part of the commercial flood.
+  He explicitly links this to booksellers trying to exploit every foreign success before rivals do.
+
+- Claim: The user-provided scans strengthen the argument that some contemporaries saw translation factories as a public-culture problem as much as a literary one.
+  Confidence: High
+  Sources: local files `gutzkow_teil1.pdf` and `gutzkow_teil2.pdf`; local file `gutzkow_context_52382.pdf`.
+  Notes:
+  Gutzkow calls on critics and journals to stop enabling the firms through friendly reviewing.
+  Kortlaender's contextual essay reinforces that these complaints belonged to a broader Vormärz debate about literary industrialization, commercialization, and protectionism.
+
+- Claim: The companion context file sharpens the historiographical meaning of Gutzkow's polemic.
+  Confidence: High
+  Sources: local file `gutzkow_context_52382.pdf`.
+  Key details:
+  Kortlaender argues that translated literature was one of the sectors in which the German literary system most visibly entered capitalist modernity.
+  He explicitly interprets anti-translation-factory complaints as partly protectionist reactions to intensified competition.
+  This helps explain why Gutzkow's attack is simultaneously aesthetic, economic, and national in tone.
