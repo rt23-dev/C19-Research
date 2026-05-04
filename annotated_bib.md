@@ -1,6 +1,6 @@
 # Translation Factories: Working Bibliography
 
-Last updated: 2026-04-22
+Last updated: 2026-05-04
 
 > **[Alpha CRC, 2021]** — *Translation factories - today and back in the 19th century*  
 > <https://alphacrc.com/blog-post/translation-factories-today-and-back-in-the-19th-century/>  
@@ -346,3 +346,38 @@ Last updated: 2026-04-22
 > *Key claims extracted:*  
 > - The bibliography cites `Karl Gutzkow, "Die Deutschen Uebersetzungsfabriken." [1839]` with the exact Exeter URL `projects.exeter.ac.uk/gutzkow/Gutzneu/gesamtausgabe/Abtei1/DDtUebe.htm`.  
 > - It also pairs the essay with Gutzkow's `Literarische Industrie`, reinforcing the contextual link between translation factories and his wider critique of literary-economic modernity.
+
+> **[Hites, 2021]** — *A vilagirodalom protekcionista gazdasagpolitikairo'l*  
+> PDF: <https://polecolit.abtk.hu/wp-content/uploads/2022/01/LITERATURA_2021-3_Hites_tan.pdf>  
+> *Annotation:* A Hungarian-language article on the protectionist economic politics of world literature. It matters here because it quotes and paraphrases Gutzkow's 1839 essay directly enough to clarify the substance of his complaint even though the original full text remains unretrieved in this browser.  
+> *Key claims extracted:*  
+> - Hites cites Gutzkow's `Die Deutschen Uebersetzungsfabriken` directly as evidence that cheap foreign imports could `overfill` the market and reduce the value of domestic production.  
+> - The article presents Gutzkow's complaint as tied to fears that German readers and booksellers were chasing foreign writers at the expense of domestic literary demand.  
+> - It also reinforces the connection between `Die Deutschen Uebersetzungsfabriken` and Gutzkow's broader critique of `Literarische Industrie`.
+
+> **[Gutzkow, 1839 / local scanned originals]** — *Die Deutschen Uebersetzungsfabriken*  
+> Local file 1: [gutzkow_teil1.pdf](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/gutzkow_teil1.pdf)  
+> Local file 2: [gutzkow_teil2.pdf](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/gutzkow_teil2.pdf)  
+> Extracted page images: [g1_page1.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g1_page1.png), [g1_page2.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g1_page2.png), [g1_page3.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g1_page3.png), [g1_page4.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g1_page4.png), [g2_page1.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g2_page1.png), [g2_page2.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g2_page2.png), [g2_page3.png](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/g2_page3.png)  
+> Original user-provided filenames: `Die Deutschen Uebersetzungsfabriken. (Der Beschluß folgt.).pdf` and `(Beschluß.) Die Deutschen Uebersetzungsfabriken..pdf`  
+> *Annotation:* This is the most important source advance in the project so far. The essay had previously been bibliographically secure but textually elusive; the user-provided scans now put the original 1839 pages directly in hand and allow close reading of Gutzkow's language, named firms, and argument. Because the PDFs are image-only scans, the extracted page images are the most usable reading copies in the workspace.  
+> *Key claims extracted:*  
+> - Gutzkow blames booksellers rather than poor translators as the root cause of the translation-factory system.  
+> - He says booksellers overfill the market with foreign wares, lower the value of domestic writing, and make Germany ridiculous abroad.  
+> - He predicts that unchecked translation dependence would make Germany resemble the Netherlands in relying on imported literature while native literature shrivels.  
+> - He names J. J. Weber, Ph. Reclam, Vieweg, G. Westermann, Meyer senior, Mayer in Aachen, Metzler, and Kollmann as part of the problem field.  
+> - He refers to Metzler's `Uebersetzungs-Maschinen` Gustav Pfizer and Notter.  
+> - He partly exempts Kollmann and explicitly mentions Fanny Tarnow and Kruse in that context.  
+> - He claims that eliminating the named firms would create an annual deficit of more than 150 entertainment books.  
+> - He also calls on critics and journals to stop enabling the offending firms through favorable reviewing and commercial dependence.
+
+> **[Kortlaender, 2008]** — *Uebersetzungen aus dem Franzoesischen im Vormaerz: Erkundung eines untergegangenen Kontinents*  
+> Local file: [gutzkow_context_52382.pdf](C:/Users/Rohan/Documents/Codex/2026-04-22-you-are-a-deep-research-agent-2/gutzkow_context_52382.pdf)  
+> Original user-provided filename: `52382.pdf`  
+> *Annotation:* A contextual essay on translations from French in the Vormaerz. It is valuable here because it explicitly situates Gutzkow's anti-translation-factory polemic within a larger story about industrialized translation, market expansion, and literary protectionism in the 1830s and 1840s. It also helps interpret anti-translation-factory rhetoric less as mere conservatism and more as a response to the literary market's entry into capitalist modernity.  
+> *Key claims extracted:*  
+> - The article treats the translation market as one of the clearest zones in which the German literary system entered capitalist modernity.  
+> - It describes complaints about `Uebersetzungsfabriken` as partly protectionist reactions against intensified competition.  
+> - It cites Gutzkow's 1839 essay and the Bachleitner 1990 reprint directly.  
+> - It also supports the claim that the most industrialized segment of the literary market was translated fiction, especially from French and English.  
+> - The article helps clarify why critics could attack translation factories while still participating in, or benefiting from, the same commercial literary system.
